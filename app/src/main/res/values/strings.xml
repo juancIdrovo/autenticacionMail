@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">jsioAutenticacion</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="click_para_login">Click para Login</string>
+    <string name="click_para_registrarte">Click para registrarte</string>
+    <string name="logout">Logout</string>
+    <string name="click_aqu_para_hacer_login">Click aquí para hacer Login</string>
+    <string name="aun_no_tienes_una_cuenta_registrate_aqu">¿Aun no tienes una cuenta? Registrate aquí!</string>
+    <string name="registrate">Registrate</string>
+    <string name="reg_strate">Regístrate!</string>
+</resources>
